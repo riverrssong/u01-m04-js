@@ -1,3 +1,3 @@
 function mark(element) {
-alert("fui clicado")
+element.innerText = "X";
 }
