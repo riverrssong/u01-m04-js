@@ -5,6 +5,10 @@
     font-family: Verdana;
     background-color: antiquewhite;
 }
+#container {
+    justify-content: center; 
+    -ms-flex-align: center;
+}
 #tabuleiro {
     background-color: purple;
     width: 360px;
