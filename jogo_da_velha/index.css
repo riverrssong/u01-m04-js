@@ -1,7 +1,8 @@
 * {
     box-sizing: border-box;
+    justify-content: center;
     text-align: center;
-    font-family: Verdana, Helvetica, sans-serif;
+    font-family: Verdana;
     background-color: antiquewhite;
 }
 #tabuleiro {
@@ -16,6 +17,7 @@
 #tabuleiro>div {
     border: 1px solid pink;
     background-color: violet;
+    font-size: 6rem;
     width: 110px;
     height: 110px;
 }
